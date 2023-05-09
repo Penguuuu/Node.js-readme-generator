@@ -9,7 +9,7 @@ using Node.js to create a readme file
 
 # screenshot
 
-https://www.awesomescreenshot.com/video/17220882?key=5b4cdf7d3261a4ac06f04eb1132facb3
+https://drive.google.com/file/d/1Jv7WVwBE6Jlg_s9oSHh1LJXhfrY6ZtHV/view
 
 <img src="Screenshot.png" width="500" height="500"> 
 
