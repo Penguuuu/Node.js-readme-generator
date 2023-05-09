@@ -1,26 +1,15 @@
 # Node.js Readme Generator
 
 ## Description
-This will generate readMe
+This will generate a Readme file after answering a series of questions. 
+Questions will be title of project, table of contect, descriptions, installation, usage, license, contribution, testing, and contacts.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [License](#license)
-- [Questions](#questions)
+# usage
+using Node.js to create a readme file
 
-## Installation
+# screenshot
 
-## Usage
+https://www.awesomescreenshot.com/video/17220882?key=5b4cdf7d3261a4ac06f04eb1132facb3
 
-## Contributing
+<img src="screenshot.png" width="500" height="500"> 
 
-## Tests
-
-## License
-
-## Questions
-- GitHub: [undefined](https://github.com/undefined)
-- Email: Test@email.com
